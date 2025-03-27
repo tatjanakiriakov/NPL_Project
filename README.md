@@ -47,14 +47,14 @@ Precision	97.2%
 Recall	96.8%
 F1-Score	97.0%
 
-Dataset
+# Dataset
 Source: SMS Spam Collection Dataset
 
 Size: 5,574 labeled messages (ham/spam)
 
 Format: Tab-separated .csv
 
- Author
+# Author
 Tatjana Kiriakov
 
 Student ID: 32203374
