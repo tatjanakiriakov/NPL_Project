@@ -41,9 +41,23 @@ python predict.py --message "Congratulations! You've won a free ticket"
 
 
 # Model Performance
-# Metric	Score
-# Accuracy	98.5%
-# Precision	97.2%
-# Recall	96.8%
-# F1-Score	97.0%
+Metric	Score
+Accuracy	98.5%
+Precision	97.2%
+Recall	96.8%
+F1-Score	97.0%
+
+Dataset
+Source: SMS Spam Collection Dataset
+
+Size: 5,574 labeled messages (ham/spam)
+
+Format: Tab-separated .csv
+
+ Author
+Tatjana Kiriakov
+
+Student ID: 32203374
+
+BSc Data Science, NLP Project (DLBAIPNLP01)
 
